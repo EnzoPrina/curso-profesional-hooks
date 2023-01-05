@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  width: 300px;
+  height: auto;
+  border: none;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.dark {
+  background-color: rgb(24, 24, 24);
+  color: #fff;
+  }
+  .light {
+  background-color: #fff;
+  color:  rgb(24, 24, 24);
+  }
